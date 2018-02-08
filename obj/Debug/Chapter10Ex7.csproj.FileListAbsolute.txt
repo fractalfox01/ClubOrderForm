@@ -1,0 +1,18 @@
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\bin\Debug\Chapter10Ex7.exe.config
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\bin\Debug\Chapter10Ex7.exe
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\bin\Debug\Chapter10Ex7.pdb
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.csprojResolveAssemblyReference.cache
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.Form1.resources
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.Properties.Resources.resources
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.csproj.GenerateResource.Cache
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.exe
+C:\Users\tvzuk\Documents\Visual Studio 2013\Projects\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.pdb
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\bin\Debug\Chapter10Ex7.exe.config
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\bin\Debug\Chapter10Ex7.exe
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\bin\Debug\Chapter10Ex7.pdb
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.csprojResolveAssemblyReference.cache
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.Form1.resources
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.Properties.Resources.resources
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.csproj.GenerateResource.Cache
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.exe
+C:\Users\Fractal-LT\Downloads\Chapter10Ex7\Chapter10Ex7\Chapter10Ex7\obj\Debug\Chapter10Ex7.pdb
